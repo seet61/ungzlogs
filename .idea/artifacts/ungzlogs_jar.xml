@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ungzlogs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ungzlogs_jar</output-path>
+    <root id="archive" name="ungzlogs.jar">
+      <element id="module-output" name="ungzlogs" />
+    </root>
+  </artifact>
+</component>
